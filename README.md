@@ -1,6 +1,5 @@
 # IT-Support-Lab
-Simulated IT troubleshooting scenarios in a Linux (Ubuntu) virtual environment, including authentication, file permissions, and network issues.
-Demonstrates hands-on experience with common IT troubleshooting scenarios using a Linux (Ubuntu) virtual machine.
+Simulated IT troubleshooting scenarios in a Linux (Ubuntu) virtual environment. This project demonstrates hands-on experience in diagnosing and resolving common system issues, including authentication, file permissions, and network connectivity. 
 
 Scenarios:
 - User Authentication Issue (Login Failure)
